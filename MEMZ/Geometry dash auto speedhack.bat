@@ -166,4 +166,4 @@ cscript x.js >NUL 2>NUL
 del x.js >NUL 2>NUL
 del z.zip >NUL 2>NUL
 del x >NUL 2>NUL
-start "" %v%
+start "100000" %v%
